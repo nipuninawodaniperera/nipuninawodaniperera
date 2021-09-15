@@ -47,7 +47,7 @@
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Intelliji IDEA" src="https://img.shields.io/badge/Intelliji%20IDEA-0078d7.svg?logo=Intelliji IDEA&logoColor=white"></a>
+    <a href="#"><img alt="InteliJ IDEA" src="https://img.shields.io/badge/InteliJ%20IDEA-0078d7.svg?logo=InteliJ IDEA&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   
 </p>
