@@ -1,5 +1,5 @@
 <a href="#"><p align="center" ><img 
- src="https://raw.githubusercontent.com/tausifaman222/shairanshrawat/master/Assests/code.gif" width="40%"/></p></a>
+ src="https://raw.githubusercontent.com/tausifaman222/shairanshrawat/master/Assests/code.gif" width="100%"/></p></a>
 
 <h1 align="center" style="font-weight:bold;">Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nipuni Nawodani Perera   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
