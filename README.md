@@ -1,3 +1,9 @@
+<h1 align="center">Hey there, I'm Nipuni Nawodani Perera! 👋</h1>
+
+### This is my [NEW GitHub Account](https://github.com/nipuninawodaniperera) .
+
+In case you want to see the previous one, [click here](https://github.com/nipuninawodani).
+
 <a href="#"><p align="center" ><img 
  src="https://raw.githubusercontent.com/tausifaman222/shairanshrawat/master/Assests/code.gif" width="100%"/></p></a>
 
